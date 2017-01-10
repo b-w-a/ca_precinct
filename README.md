@@ -2,7 +2,7 @@
 
 ## Precinct Returns
 + 2012 precinct returns were downloaded from here: http://statewidedatabase.org/index.html
-+ 2016 precinct returns were gathered form here: 
++ 2016 precinct returns were gathered form here: https://github.com/datadesk/california-2016-election-precinct-maps
 
 
 
